@@ -1,0 +1,5 @@
+C:\Users\crist\Desktop\Archvivos ETP\Entornos del Desarrollo\Practicas_Tareas\PracticaUF1 (1)\bin\Release\net8.0\publish\PracticaUF1 (1).exe
+C:\Users\crist\Desktop\Archvivos ETP\Entornos del Desarrollo\Practicas_Tareas\PracticaUF1 (1)\bin\Release\net8.0\publish\PracticaUF1 (1).dll
+C:\Users\crist\Desktop\Archvivos ETP\Entornos del Desarrollo\Practicas_Tareas\PracticaUF1 (1)\bin\Release\net8.0\publish\PracticaUF1 (1).deps.json
+C:\Users\crist\Desktop\Archvivos ETP\Entornos del Desarrollo\Practicas_Tareas\PracticaUF1 (1)\bin\Release\net8.0\publish\PracticaUF1 (1).runtimeconfig.json
+C:\Users\crist\Desktop\Archvivos ETP\Entornos del Desarrollo\Practicas_Tareas\PracticaUF1 (1)\bin\Release\net8.0\publish\PracticaUF1 (1).pdb
