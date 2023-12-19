@@ -1,0 +1,109 @@
+body {
+    background: url(../img/9a58c343701abc80f7e1d5ec4142ab4d.gif) no-repeat;
+    background-size: cover;
+}
+
+img {
+    max-width: 100%;
+}
+
+.nav-bar {
+    background-color: aqua;
+}
+
+p {
+    color: #fff;
+}
+
+.bg-body-tertiary  {
+    background-color: var(aqua);
+}
+
+.box_links:hover .box_divs{
+    display: flex;
+    pointer-events: auto;
+    opacity: 1;
+    width: 1296px;
+    left: 0;
+}
+
+.box_divs{
+    opacity: 0;
+    pointer-events: none;
+    display: none;
+    position: absolute;
+    top: 59px;
+    left: 11px;
+    background-color: rgba(53, 38, 130, 0.4);
+    backdrop-filter: blur(4px);
+
+}
+
+.box_re {
+    width: 100%;
+    height: 240px;
+}
+
+.title_re {
+    height: 100px;
+}
+
+
+
+/* <-------------------Indie CSS ------------------>*/
+
+.box-indie {
+    padding: 25px 0;
+}
+
+.box-indie h2 {
+    text-align: center;
+}
+
+.indie-left {
+    position: relative;
+    display: none;
+}
+
+.under .indie-left img {
+}
+
+.box-indie:hover .indie-left {
+    display: flex;
+    position: absolute;
+    width: 941px;
+    top: -3px;
+    left: 350px;
+    background-color: #276ee87e;
+    justify-content: space-around;
+}
+
+.indie-left p {
+    padding: 18px;
+    text-align: justify;
+}
+
+.le {
+    width: 300px;
+}
+
+/* ----------BOTONSITO GUCCI--------------- */
+
+.rick {
+    position: fixed;
+    bottom: 22px;
+    right: 27px;
+    z-index: 99999;
+    border-radius: 50%;
+    background: #ede;
+    width: 100px;
+    height: 90px;
+    padding-top: 27px;
+    text-align: center;
+}
+
+a {
+    text-decoration: inherit;
+    color: inherit;
+}
+
